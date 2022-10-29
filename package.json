@@ -4,7 +4,9 @@
   "description": "Creación de una tienda virtual de los diferentes tipos de aguacates. Proyecto creado con next.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
   },
   "repository": {
     "type": "git",
